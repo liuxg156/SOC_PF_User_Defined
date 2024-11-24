@@ -1,0 +1,2 @@
+# SOC_PF_User_Defined
+基于PF原理，在simulink中搭建用于电池SOC计算的EKF模块
